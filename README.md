@@ -1,16 +1,57 @@
-### Hi there 👋
+# Hi, I'm Tykhon 👋
 
-<!--
-**TykhonKozachenko/TykhonKozachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I'm a QA Engineer with a keen eye for detail and a passion for ensuring quality throughout the software development lifecycle. I am dedicated and committed to delivering exceptional products that exceed expectations.
 
-Here are some ideas to get you started:
+## Skills
+### Testing
+- Manual QA
+- Web / Mobile Testing
+- Black/Grey/Whitebox Testing
+- Functional, Ad-Hoc, Smoke, Sanity, Regression Testing
+- Performance, Acceptance, Positive & Negative Testing
+- Test Plan, Test Cases, Checklists, Bug Reports
+- Test Design Techniques
+- SDLC, STLC, Bug Life Cycle
+- Agile, Waterfall, V-Model
+### Tools
+- Jira
+- TestRail
+- Git / Github
+- Unix Terminal
+- Postman
+- DBeaver
+- Android Studio, Genymotion
+- Xcode
+- Docker
+### Code
+- SQL
+- JS
+- HTML
+- CSS
+### Web
+- Windows, Linux, macOS
+- Environments
+- DevTools, JSON, XML
+- Client-Server Architecture
+- HTTP, API, Encryption
+- OSI Model, TCP/IP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest projects
+- ### [Huntd](https://tykhon.notion.site/Huntd-77228974918a4e6ab03ad45b2066b058?pvs=74)
+- ### Wander Wise
+
+## Certificates & Achievements
+- QA Manual | Mate Academy ([certificate](https://drive.google.com/file/u/2/d/1TsgUVSVMzD37CY9mFyzlWKoaj-zIZmm2/view))
+- UI/UX Design | Uxcel ([certificates](https://drive.google.com/drive/u/2/folders/1mzcqdkwEne6nTnCdVyRkUkDRnGOxiIJ_?usp=drive_link))
+- Postman API Expert | Postman Academy ([confirmation](https://badgr.com/public/assertions/X49VbfMPSua9a67gBX2THg?identity__email=tooliewae@gmail.com))
+- Learning How to Learn | Deep Teaching Solutions ([certificate](https://www.coursera.org/account/accomplishments/certificate/56D6DA449Z8Z))
+- SQL | W3Schools
+
+- Participant of European Academy of Social Transformation (Credential ID: R7JZ-4KZ2-EY7L-YSYC, [verification](https://www.youthpass.eu/en/verify/))
+
+## Contact
+- [[LinkedIn](https://www.linkedin.com/in/tykhonk)]
+- Email: tykhonkozachenko@gmail.com
+- [[Telegram](https://t.me/tykhonk)]
+- [[WhatsApp](https://wa.me/380963771817)]
