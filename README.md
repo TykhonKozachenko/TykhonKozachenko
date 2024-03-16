@@ -51,7 +51,7 @@ I'm a QA Engineer with a keen eye for detail and a passion for ensuring quality 
 - Participant of European Academy of Social Transformation (Credential ID: R7JZ-4KZ2-EY7L-YSYC, [verification](https://www.youthpass.eu/en/verify/))
 
 ## Contact
-- [[LinkedIn](https://www.linkedin.com/in/tykhonk)]
+- [LinkedIn](https://www.linkedin.com/in/tykhonk)
 - Email: tykhonkozachenko@gmail.com
-- [[Telegram](https://t.me/tykhonk)]
-- [[WhatsApp](https://wa.me/380963771817)]
+- [Telegram](https://t.me/tykhonk)
+- [WhatsApp](https://wa.me/380963771817)
