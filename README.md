@@ -14,8 +14,8 @@ Results-driven QA Engineer with a mission for meticulous provision of software q
 <br>
 
 ## Implementations & Samples
-- [E2E Tests](https://github.com/TykhonKozachenko/E2E_Tests) | [API Tests](https://github.com/TykhonKozachenko/API_Tests) | [Unit JS Tests](https://github.com/TykhonKozachenko/Automated_Unit_JS_Tests) | [JS Solutions](https://github.com/TykhonKozachenko/JavaScript_Tasks)
-- [Test Cases](https://drive.google.com/file/d/1Y9t4nAv5S0RLkCJYWzpNZiBfUAOBBdMj/view) | [Checklist](https://docs.google.com/spreadsheets/d/1Q_ZnNQEhMNVUOTkXZSvFTeJxHqR1B6_d27FfuFGjlqw/edit#gid=0) | [Bug & Test Reports](https://drive.google.com/file/d/1BGgFnFJCvKzoSySWSBxgY1EtthqKeTsa/view) | [Test Plan](https://tykhon.notion.site/Test-Plan-bded876bc7514350ac81d2ddfde78b26?pvs=74) | [Decomposition](https://www.figma.com/file/5HgCAq2q8a6AYLaRKqyQDt/Wander-Wise-Decomposition?type=whiteboard&node-id=0-1)
+- #### [E2E Tests](https://github.com/TykhonKozachenko/E2E_Tests) | [API Tests](https://github.com/TykhonKozachenko/API_Tests) | [Unit JS Tests](https://github.com/TykhonKozachenko/Automated_Unit_JS_Tests) | [JS Solutions](https://github.com/TykhonKozachenko/JavaScript_Tasks)
+- #### [Test Cases](https://drive.google.com/file/d/1Y9t4nAv5S0RLkCJYWzpNZiBfUAOBBdMj/view) | [Checklist](https://docs.google.com/spreadsheets/d/1Q_ZnNQEhMNVUOTkXZSvFTeJxHqR1B6_d27FfuFGjlqw/edit#gid=0) | [Bug & Test Reports](https://drive.google.com/file/d/1BGgFnFJCvKzoSySWSBxgY1EtthqKeTsa/view) | [Test Plan](https://tykhon.notion.site/Test-Plan-bded876bc7514350ac81d2ddfde78b26?pvs=74) | [Decomposition](https://www.figma.com/file/5HgCAq2q8a6AYLaRKqyQDt/Wander-Wise-Decomposition?type=whiteboard&node-id=0-1)
 
 <br>
 
