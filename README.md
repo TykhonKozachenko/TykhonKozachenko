@@ -19,4 +19,4 @@ Results-driven QA Engineer with a mission for meticulous provision of software q
 
 <br>
 
-> ### [Explore more](https://tykhonkozachenko.com)
+> ## [Explore more](https://tykhonkozachenko.com)
