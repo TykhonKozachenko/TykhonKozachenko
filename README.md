@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tykhon 👋🏻</h1>
 
-Results-driven Automation QA Engineer with a strong focus on building and maintaining robust automated test suites alongside thorough manual testing. Adept at working in fast-paced, agile environments. A proactive self-starter and reliable team player with strong problem-solving skills and a commitment to continuous quality improvement.
+Results-driven QA Engineer with a focus on building and maintaining robust automated test suites, complemented by hands-on manual testing. Adept at working in fast-paced, agile environments. Dedicated self-starter and reliable team player with strong problem-solving skills and proactive mindset committed to continuous quality improvement.
 
 <h4>
-  <a href="http://tykhonkozachenko.com/">📄 Résumé</a>
+  <a href="https://drive.google.com/file/d/17RGEnBuoy7e6KBaZDzxx8Ux4kShKK8YU/view?usp=sharing">📄 Résumé</a>
 </h4>
 
 ---
